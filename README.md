@@ -1,5 +1,6 @@
+# This Repository is sole property of Linux_Choice... but somehow it remained on mine account.
 # EvilOffice v1.0
-## Author: github.com/thelinuxchoice/eviloffice
+## Author: github.com/srnframe/eviloffice
 ## Twitter: twitter.com/linux_choice
 ### Read the license before using any part from this code :) 
 
@@ -27,7 +28,7 @@ Usage of EvilOffice for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/eviloffice
+git clone https://github.com/srnframe/eviloffice
 cd eviloffice
 python -m pip install -r requirements.txt
 python eviloffice.py
