@@ -1,4 +1,4 @@
-# This Repository is sole property of Linux_Choice... but somehow it remained on mine account.
+# This Repository is sole property of Linux Choice... but somehow it remained on mine account.
 # EvilOffice v1.0
 ## Author: github.com/srnframe/eviloffice
 ## Twitter: twitter.com/linux_choice
@@ -27,12 +27,14 @@ Win python script to inject Macro and DDE code into Excel and Word documents (re
 Usage of EvilOffice for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
 ### Usage:
+
 ```
 git clone https://github.com/srnframe/eviloffice
 cd eviloffice
 python -m pip install -r requirements.txt
 python eviloffice.py
 ```
+
 ### Donate!
 Pay me a coffee:
 ### Paypal:
